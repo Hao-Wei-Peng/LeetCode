@@ -10,7 +10,12 @@ code2.py:
 * Memory Usage: 14 MB, less than 89.46% of Python3 online submissions for Two Sum.
 >O(nlogn) Binary Search
 
-code3.cpp:
+code3.py:
+* Runtime: 32 ms, faster than 99.78% of Python3 online submissions for Two Sum.
+* Memory Usage: 14.5 MB, less than 45.10% of Python3 online submissions for Two Sum.
+>O(n) Hash Table
+
+code4.cpp:
 * Runtime: 288 ms, faster than 5.29% of C online submissions for Two Sum.
 * Memory Usage: 6 MB, less than 47.19% of C online submissions for Two Sum.
 >O(n^2)
