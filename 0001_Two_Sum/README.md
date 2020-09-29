@@ -6,7 +6,7 @@ code1.py:
 >O(n^2)
 
 code2.py:
-* Runtime: 44 ms, faster than 94.84% of Python3 online submissions for Two Sum.
+* Runtime: 43 ms, faster than 94.84% of Python3 online submissions for Two Sum.
 * Memory Usage: 14 MB, less than 89.46% of Python3 online submissions for Two Sum.
 >O(nlogn) Binary Search
 
