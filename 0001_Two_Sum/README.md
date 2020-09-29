@@ -1,4 +1,4 @@
-## Question: https://leetcode-cn.com/problems/maximum-subarray/
+## Question: https://leetcode-cn.com/problems/two-sum/
 
 code1.py:
 * Runtime: 6504 ms, faster than 5.67% of Python3 online submissions for Two Sum.
@@ -16,6 +16,6 @@ code3.py:
 >O(n) Hash Table
 
 code4.cpp:
-* Runtime: 288 ms, faster than 5.29% of C online submissions for Two Sum.
-* Memory Usage: 6 MB, less than 47.19% of C online submissions for Two Sum.
+* Runtime: 180 ms, faster than 68.54% of C online submissions for Two Sum.
+* Memory Usage: 6 MB, less than 52.18% of C online submissions for Two Sum.
 >O(n^2)
