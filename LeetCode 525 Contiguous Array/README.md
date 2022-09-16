@@ -1,4 +1,4 @@
-## Question: https://leetcode.cn/problems/contiguous-array/submissions/
+## Question: https://leetcode.cn/problems/contiguous-array/
 
 Code.ipynb:
 * Runtime: 200 ms, faster than 66.51% of Python3 online submissions for Contiguous Array.
