@@ -1,4 +1,4 @@
-## Question: https://leetcode.cn/problems/rotate-image//
+## Question: https://leetcode.cn/problems/rotate-image/
 
 Code.ipynb:
 * Runtime: 40 ms, faster than 41.61% of Python3 online submissions for Rotate Image.
