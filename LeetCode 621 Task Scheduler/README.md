@@ -1,4 +1,4 @@
-## Question: https://leetcode.com/problems/task-scheduler/
+## Question: https://leetcode.cn/problems/task-scheduler/
 
 Code.ipynb:
 * Runtime: 284 ms, faster than 89.10% of Python3 online submissions for Task Scheduler.
